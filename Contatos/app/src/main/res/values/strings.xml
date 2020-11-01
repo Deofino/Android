@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Contatos</string>
+    <string name="todo">TODO</string>
+    <string name="testName">Nome contato</string>
+    <string name="howuse">Como usar?</string>
+    <string name="info">Informações</string>
+    <string name="settingds">Configurações</string>
+    <string name="search">Pesquisar</string>
+    <string name="pesquisar">pesquisar</string>
+    <string name="star">Favoritos</string>
+    <string name="save">Salvar</string>
+    <string name="newContact">Novo Contato</string>
+    <string name="mainFields">Campos obrigatórios</string>
+    <string name="nameContact">Nome</string>
+    <string name="tell">Telefone</string>
+    <string name="txtHowUse">Clicando no botão abaixo de Adicionar Novo Contato, você automaticamente será
+        redimensionado para uma nova janela. \n\nOnde poderá enfim preencher os campos e no botão de salvar você
+        cadastra seu novo contato!</string>
+    <string name="txtInfo">Este aplicativo não e nada mais nada menos que uma Agenda de Contatos.\n\n
+        Você pode adicionar a quantidade de contatos que você achar necessario\nSendo obrigátorio pelo menos seu nome e seu numero de telefone celular.</string>
+    <string name="not_found">Nenhum contato encontrado.</string>
+    <string name="optionaisFields">Campos opcionais</string>
+    <string name="hintEmail">E-mail</string>
+    <string name="hintLastName">Sobrenome</string>
+    <string name="hintTellFix">Telefone fixo</string>
+    <string name="hintCompany">Empresa / Escola</string>
+    <string name="hintBirthday">Aniversário</string>
+    <string name="hintGneder">Gênero</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="delete">Excluir</string>
+    <string name="update">Editar</string>
+    <string name="updated">Editar</string>
+</resources>

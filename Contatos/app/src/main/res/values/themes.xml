@@ -1,0 +1,15 @@
+<resources>
+    <style name="Theme.Contatos" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/ColorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/ColorPrimaryDark</item>
+        <item name="android:colorAccent">@color/AccentColor</item>
+        <item name="android:fontFamily">@font/comfortaa_regular</item>
+        <item name="android:textColorPrimary">@color/White</item>
+        <item name="android:textColorSecondary">@color/PrimaryText</item>
+    </style>
+
+    <style name="Theme.myDatePicker" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:colorAccent">@color/AccentColor</item>
+    </style>
+
+</resources>

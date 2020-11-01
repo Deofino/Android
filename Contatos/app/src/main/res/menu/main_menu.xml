@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+  >
+
+    <item android:id="@+id/comoUsar"
+        android:title="@string/howuse"
+        />
+    <item android:id="@+id/info"
+        android:title="@string/info"
+        />
+    <item android:id="@+id/config"
+        android:title="@string/settingds"
+        />
+
+    <item
+        android:id="@+id/pesquisa"
+        android:title="@string/pesquisar"
+        app:showAsAction="ifRoom"
+        app:actionViewClass="android.widget.SearchView" />
+    <item
+        android:id="@+id/star"
+        android:title="@string/star"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_baseline_star_border_24"
+        android:iconTint="@color/White"
+        />
+
+
+</menu>
